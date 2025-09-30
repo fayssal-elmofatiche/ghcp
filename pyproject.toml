@@ -5,7 +5,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "ghcp"
-version = "0.1.0"
+version = "0.1.3"
 description = "Copy a folder or file from GitHub without cloning (CLI)"
 readme = "README.md"
 requires-python = ">=3.8"
